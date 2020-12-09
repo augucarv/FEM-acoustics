@@ -1,3 +1,4 @@
+LICENSE: if you use this code it is mandatory for you to cite the paper below:
 
 Implementation of Finite Element Method in Matlab for assessing modes and 
 natural frequencies of 2D rectangular plates
